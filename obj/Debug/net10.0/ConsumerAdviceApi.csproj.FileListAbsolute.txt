@@ -1,0 +1,15 @@
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/bin/Debug/net10.0/ConsumerAdviceApi
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/bin/Debug/net10.0/ConsumerAdviceApi.deps.json
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/bin/Debug/net10.0/ConsumerAdviceApi.runtimeconfig.json
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/bin/Debug/net10.0/ConsumerAdviceApi.dll
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/bin/Debug/net10.0/ConsumerAdviceApi.pdb
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.AssemblyInfoInputs.cache
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.AssemblyInfo.cs
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.csproj.CoreCompileInputs.cache
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.sourcelink.json
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.dll
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/refint/ConsumerAdviceApi.dll
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.pdb
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ConsumerAdviceApi.genruntimeconfig.cache
+/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/ConsumerAdviceApi/ConsumerAdviceApi/obj/Debug/net10.0/ref/ConsumerAdviceApi.dll
